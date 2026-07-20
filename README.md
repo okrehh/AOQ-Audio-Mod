@@ -10,9 +10,8 @@ A sound overhaul / sound effect replacement mod for the PCVR version of Attack o
 
 # Installation
 
-- Put the AOQAudioMod.dll file in the BepInEx plugins folder
-
-- To use the built-in sound pack, place the linked 'Sounds' folder in plugins as well (placing none will create an empty 'Sounds' folder)
+- Extract the AOQAudioMod.zip file into the BepInEx plugins folder
+  - The mod will have a dedicated folder with a separate Sounds folder to read sounds from
 
 # Requirements
 
