@@ -30,7 +30,7 @@ A sound overhaul / sound effect replacement mod for the PCVR version of Attack o
   
   - stereo
     
-/- anything different is not guaranteed to work!
+- anything different is not guaranteed to work!
 
 - MUST have the same name as the original file! However, you can assign multiple sounds to one action or event in game by adding \_1, \_2, \_3, etc. to the end of the file name. Doing so will have one of the sounds played at random each time the event occurs
 
