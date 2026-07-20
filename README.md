@@ -28,6 +28,8 @@ A sound overhaul / sound effect replacement mod for the PCVR version of Attack o
 
 &#x20; - 16 bit encoding
 
+- stereo
+
 &#x20; - MUST have the same name as the original file! However, you can assign multiple sounds to one action or event in game by adding \_1, \_2, \_3, etc. to the end of the file name. Doing so will have one of the sounds played at random each time the event occurs
 
 &#x20; - original sound file names for reference can be viewed by loading the AttackOnQuest\_Data folder in a program such as AssetStudio
