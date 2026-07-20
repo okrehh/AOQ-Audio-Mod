@@ -1,24 +1,24 @@
-\# AoQSoundMod
+# AoQSoundMod
 
 A sound overhaul / sound effect replacement mod for the PCVR version of Attack on Quest built with BepInEx 5.
 
-\# Features
+# Features
 
 \- More faithful / accurate sounds for ODM, titans, etc.
 
 \- A sounds folder by which sounds can be read to be replaced in game
 
-\# Installation
+# Installation
 
 \- Put the AOQAudioMod.dll file in the BepInEx plugins folder
 
 \- To use the built-in sound pack, place the linked 'Sounds' folder in plugins as well (placing none will create an empty 'Sounds' folder)
 
-\# Requirements
+# Requirements
 
 \- BepInEx 5.4.x for AoQ
 
-\# Implementing custom sounds
+# Implementing custom sounds
 
 \- Sound files must be the following:
 
