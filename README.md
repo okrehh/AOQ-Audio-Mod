@@ -1,4 +1,4 @@
-# AoQSoundMod
+# AoQAudioMod
 
 A sound overhaul / sound effect replacement mod for the PCVR version of Attack on Quest built with BepInEx 5.
 
